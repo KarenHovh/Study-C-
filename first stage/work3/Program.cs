@@ -22,7 +22,7 @@ namespace work3
 
             Console.Write("Please enter Your Birth Year ");
             short birtyear = Convert.ToInt16(Console.ReadLine());
-            int year = 2018 - birtyear;
+            int year = 2018 - birthyear;
 
             if (weigh < 99.9)
             {
